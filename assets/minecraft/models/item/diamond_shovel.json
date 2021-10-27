@@ -1,0 +1,36 @@
+  {
+	"credit": "Made with Kate && VSCode",
+	"item": "masterkey",
+	"model_ver":"2",
+	"textures": {
+		"1": "items/guns/masterkey"
+	},
+    "parent":"item/guns/masterkey",
+    "display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [-0.75, 11, -3.75],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"firstperson_righthand": {
+            "rotation": [0, 180, 0],
+			"translation": [-0.75, 12.5, -1.5],
+			"scale": [2, 2, 2]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [-9, -2, 0],
+			"scale": [1.75, 1.75, 1.75]
+		},
+		"gui": {
+			"rotation": [90, -130, 75],
+			"translation": [4.25, 5.75, 0],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 7, -1.25],
+			"scale": [1.25, 1.25, 1.25]
+		}
+	}
+}
