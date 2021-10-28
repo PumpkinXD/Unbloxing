@@ -1,0 +1,37 @@
+ {
+	"credit": "Made with Kate && VSCode",
+	"item": "1911",
+	"model_ver":"1",
+	"textures": {
+		"1": "items/guns/1911"
+	},
+    "parent":"item/guns/1911",
+    "display": {
+		"thirdperson_NG": {
+			"rotation": [-65, 90, -170],
+			"translation": [-0.75, -0.75, -4],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson": {
+            "rotation": [5, 135, 0],
+			"translation": [-0.75, 3.5, 0.25],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"ground": {
+		"_comment_ground":"still got some problem on translation",
+			"rotation": [0, 0, 90],
+			"translation": [0, -6, 0],
+			"scale": [2.2, 2.2, 2.2]
+		},
+		"gui_NG": {
+			"rotation": [-120, -285.75, -90],
+			"translation": [-0.5, 1, 0],
+			"scale": [1.36, 1.36, 1.36]
+		},
+		"fixed_NG": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 0, -2],
+			"scale": [4, 4, 4]
+		}
+	}
+}

@@ -1,0 +1,37 @@
+  {
+	"credit": "Made with Kate && VSCode",
+	"item": "maplestrike",
+	"model_ver":"1",
+	"textures": {
+		"1": "items/guns/maplestrike"
+	},
+    "parent":"item/guns/maplestrike",
+    "display": {
+		"thirdperson_NG": {
+			"rotation": [-65, 90, -170],
+			"translation": [-0.75, 7, -6.5],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"firstperson": {
+            "rotation": [5, 135, 0],
+			"translation": [-1.5, 13.1, -4.5],
+			"scale": [6.25, 6.25, 6.25]
+		},
+		"ground": {
+            "_comment_ground":"still got some problem on translation",
+			"rotation": [0, 0, 90],
+			"translation": [-8.5, -4.75, 1.5],
+			"scale": [8, 8, 8]
+		},
+		"gui_NG": {
+			"rotation": [-120, -274, -90],
+			"translation": [3.5, 4.75, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed_NG": {
+			"rotation": [-90, 50, 90],
+			"translation": [-4, 5.75, -1.75],
+			"scale": [6, 6, 6]
+		}
+	}
+}
