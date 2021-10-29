@@ -4,7 +4,7 @@
       "description":"a blocking dead 3D resource pack created by pumpkin",
       "_comment01":"used some assets from unturned by SDG(Nelson)",
       "_comment02":"this pack is backported from 1.17.1 version(pack_format=7)",
-      "_comment03":"and still got problems on model displaying && zombie texture dont use it"
+      "_comment03":"and still got problems on model displaying && zombie texture dont use it",
       "_comment": "still WIP"
     }
  }

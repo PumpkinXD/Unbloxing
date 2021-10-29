@@ -5,33 +5,27 @@
 	"textures": {
 		"1": "items/guns/masterkey"
 	},
-    "parent":"item/guns/masterkey",
-    "display": {
-		"thirdperson_NG": {
-			"rotation": [-65, 90, -170],
-			"translation": [-0.75, 10, -6.5],
-			"scale": [1.75, 1.75, 1.75]
+    "parent":"item/guns/masterkey_MC18",
+	"display": {
+		"thirdperson": {
+			"rotation": [ -180, 92, -40 ],
+			"translation": [ 2.5, 3.3, -8 ],
+			"scale": [ 2, 2, 2 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 1, 1, 1 ]
 		},
 		"firstperson": {
-            "rotation": [5, 135, 0],
-			"translation": [-0.75, 12.5, -1.5],
-			"scale": [5, 5, 5]
+			"rotation": [ 0, 50, 0 ],
+			"translation": [ -2, 2.8, -4 ],
+			"scale": [ 3, 3, 3 ]
 		},
-		"ground": {
-		"_comment_ground":"still got some problem on translation",
-			"rotation": [0, 0, 90],
-			"translation": [-9, -5, 0],
-			"scale": [7, 7, 7]
-		},
-		"gui_NG": {
-			"rotation": [60, -355, 75],
-			"translation": [4.25, 5.75, 0],
-			"scale": [2, 2, 2]
-		},
-		"fixed_NG": {
-			"rotation": [0, 90, 0],
-			"translation": [0, 7, -1.25],
-			"scale": [5, 5, 5]
+		"gui": {
+			"rotation": [ -30, 135, 43 ],
+			"translation": [ -1.75, 1.75, 0 ],
+			"scale": [ 1.75, 2.85, 2.5 ]
 		}
 	}
 }
