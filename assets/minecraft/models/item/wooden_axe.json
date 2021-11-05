@@ -1,0 +1,25 @@
+  {
+	"credit": "Made with Kate && VSCode",
+	"item": "knife",
+	"model_ver":"1",
+    "parent":"item/melees/knife_kitchen_MC18",
+	"display": {
+		"thirdperson": {
+        "rotation": [180,90,-90],
+        "translation": [0.5,1,-3.2],
+			"scale":[0.7,0.7,0.7]
+		},
+		"firstperson": {
+			"rotation":[0,57,15],
+			"translation":[-1.9,4.3,0],
+			"scale":[2,2,2 ]
+		},
+		"gui": {
+        "rotation": [ -30, 135, -45 ],
+        "translation": [ -1.6, 0, 0.6 ],
+			"scale":[2,2,2]
+		}
+	}
+}
+
+
